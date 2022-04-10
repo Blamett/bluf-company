@@ -1,0 +1,61 @@
+
+header{
+    display: flex;
+    flex-direction: row;
+    font-family: 'Inter', sans-serif;
+    margin: 40px 0 0 45%;
+}
+
+a{
+    margin-left: 10px;
+}
+
+#refs{
+    margin-top:20px;
+    font-size: 17px;
+    font-weight: 700;
+}
+
+#title{
+    margin-right: 35%;
+    font-size: 70px;
+    font-weight: 900;
+    font-style: italic;
+}
+
+----------------------------------------------------------------
+
+main{
+    display: flex;
+}
+
+#content{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+    padding: 5vw 6vw;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-style: italic;
+    font-size:13px;
+}
+
+ul{
+    margin-right: 30px;
+}
+
+.menu-item{
+    margin: 5px 0 10px 0px;
+}
+
+#category{
+    flex-direction: column;
+    text-align: left;
+}
+
+#images{
+    cursor: pointer;
+}
+
+
+
